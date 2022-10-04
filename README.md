@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Estudando TypeScript, React e Node<br>📚 Estudante de SI na Fatec Rubens Lara em Santos<br>🏠 Guarujá-SP
+🌱 Estudando TypeScript, React e Node<br>📚 Estudante de SI na Fatec Rubens Lara de Santos<br>🏠 Guarujá-SP
 
 
 ## 🌐 Socials:
